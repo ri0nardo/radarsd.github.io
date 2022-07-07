@@ -1,2 +1,2 @@
-# hugo
+# radarsd.github.io
 RADAR
