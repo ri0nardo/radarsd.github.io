@@ -184,3 +184,5 @@ This is an adaptation of the Jekyll theme [Beautiful Jekyll](https://deanattali.
 ## License
 
 MIT Licensed, see [LICENSE](https://github.com/halogenica/Hugo-BeautifulHugo/blob/master/LICENSE).
+
+## Email Us!
