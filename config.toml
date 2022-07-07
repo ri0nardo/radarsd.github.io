@@ -1,0 +1,5 @@
+baseURL = 'http://radarsd.github.io/'
+languageCode = 'en-us'
+title = 'RADAR Open San Diego'
+themesDir = 'themes'
+Theme = 'beautifulhugo'
