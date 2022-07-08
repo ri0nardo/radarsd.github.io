@@ -186,26 +186,3 @@ This is an adaptation of the Jekyll theme [Beautiful Jekyll](https://deanattali.
 MIT Licensed, see [LICENSE](https://github.com/halogenica/Hugo-BeautifulHugo/blob/master/LICENSE).
 
 ## Email Us!
-
-# Create the button as an HTML fragment
-cta_button <-
-  add_cta_button(
-    url = "http://www.website.net",
-    text = "Press This Button"
-  )
-
-# Include the button in the email
-# message body by using it as part of
-# a vector inside of `md()`
-email <-
-  compose_email(
-    body = md(
-      c(
-  "Pressing the button will take
-  you to an example website",
-  cta_button
-      )
-    )
-  )
-
-if (interactive()) email
